@@ -1,0 +1,6 @@
+{
+  "name": "Almeida & Rocha Advocacia",
+  "description": "Site institucional de excelência jurídica para o escritório Almeida & Rocha Advocacia, com áreas de atuação, advogados especialistas e contato via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
